@@ -19,3 +19,8 @@ Open `checkpoint1_movielens_selection_eda.ipynb` in Colab and run all cells.
 
 ## Collaboration Declaration
 See bottom of the notebook.
+
+## Citations:
+- F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. https://doi.org/10.1145/2827872
+- Justifying recommendations using distantly-labeled reviews and fined-grained aspects. - Jianmo Ni, Jiacheng Li, Julian McAuley Empirical Methods in Natural Language Processing (EMNLP), 2019
+- Xiang Zhang, Junbo Zhao, Yann LeCun. Character-level Convolutional Networks for Text Classification. Advances in Neural Information Processing Systems 28 (NIPS 2015).
