@@ -15,7 +15,7 @@ MovieLens 25M (GroupLens). 25M ratings, 62K movies, 162K users. Released 12/2019
 - Beyond-course: matrix factorization (SVD) baseline
 
 ## How to run
-Open `checkpoint1_movielens_selection_eda.ipynb` in Colab and run all cells.
+Open `Project_Checkpoint_1.ipynb ` in Colab and run all cells.
 
 ## Collaboration Declaration
 See bottom of the notebook.
