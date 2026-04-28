@@ -107,6 +107,3 @@ This project was developed and run in **Google Colab** (recommended). :contentRe
 - torch (for MF)
 
 ---
-
-## Repository structure
-Suggested layout (adjust to match your repo):
