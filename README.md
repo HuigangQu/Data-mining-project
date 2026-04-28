@@ -80,14 +80,14 @@ This map visualizes **user taste structure** in MovieLens. Each point is a user,
 This project was developed and run in **Google Colab** (recommended). 
 
 ### 1) Environment
-- Python: **[Python 3.12.13]** 
-- Install dependencies: see `requirements.txt` (exported from Colab via `pip freeze`). :contentReference[oaicite:4]{index=4}  
+- Python: **[`Python 3.12.13`]** 
+- Install dependencies: see `requirements.txt` (exported from Colab via `pip freeze`). 
 
 ### 2) Run order
 1. Open and run: **`main_notebook.ipynb`** (Run All).
 2. (Optional) Review progression notebooks:
    - `checkpoints/checkpoint_1.ipynb`
-   - `checkpoints/checkpoint_2.ipynb` :contentReference[oaicite:5]{index=5}  
+   - `checkpoints/checkpoint_2.ipynb` 
 
 ### Notes for reproducibility
 - The dataset is downloaded inside the notebook.
@@ -96,7 +96,7 @@ This project was developed and run in **Google Colab** (recommended).
 ---
 
 ## Key dependencies (at-a-glance)
-(Full pinned list is in `requirements.txt`.) :contentReference[oaicite:6]{index=6}  
+(Full pinned list is in `requirements.txt`.) 
 
 - Python: **[3.12.13]**
 - numpy, pandas
