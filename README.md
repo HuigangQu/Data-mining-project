@@ -2,7 +2,7 @@
 
 **One-line overview:** A data mining project that studies how recommendation methods behave under **sparsity** and **long-tail popularity**, with a focus on **cold-start reasonableness** (over-popular lists, genre mismatch, and long-tail coverage).
 
-👉 **Start here:** `main_notebook.ipynb` (the curated final story notebook). :contentReference[oaicite:1]{index=1}  
+👉 **Start here:** `main_notebook.ipynb` (the curated final story notebook).
 🎥 **2-minute project video:** **[[YouTube link here](https://www.youtube.com/watch?v=uv1DfDeKScU)]** 
 
 ---
@@ -77,10 +77,10 @@ This map visualizes **user taste structure** in MovieLens. Each point is a user,
 ---
 
 ## How to reproduce (Colab-first)
-This project was developed and run in **Google Colab** (recommended). :contentReference[oaicite:2]{index=2}
+This project was developed and run in **Google Colab** (recommended). 
 
 ### 1) Environment
-- Python: **[paste `!python --version` output here]** :contentReference[oaicite:3]{index=3}  
+- Python: **[Python 3.12.13]** 
 - Install dependencies: see `requirements.txt` (exported from Colab via `pip freeze`). :contentReference[oaicite:4]{index=4}  
 
 ### 2) Run order
