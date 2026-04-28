@@ -18,7 +18,7 @@ MovieLens 25M (GroupLens). 25M ratings, 62K movies, 162K users. Released 12/2019
 Open `Project_Checkpoint_1.ipynb ` in Colab and run all cells.
 
 ## Collaboration Declaration
-See bottom of the notebook.
+See bottom of the checkpoint1 notebook.
 
 ## Citations:
 - F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. https://doi.org/10.1145/2827872
